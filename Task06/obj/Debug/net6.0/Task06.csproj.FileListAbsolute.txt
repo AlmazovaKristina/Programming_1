@@ -1,0 +1,15 @@
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.csproj.AssemblyReference.cache
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.AssemblyInfoInputs.cache
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.AssemblyInfo.cs
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.csproj.CoreCompileInputs.cache
+/Users/kristinaalmazova/Documents/Programming /Task06/bin/Debug/net6.0/Task06
+/Users/kristinaalmazova/Documents/Programming /Task06/bin/Debug/net6.0/Task06.deps.json
+/Users/kristinaalmazova/Documents/Programming /Task06/bin/Debug/net6.0/Task06.runtimeconfig.json
+/Users/kristinaalmazova/Documents/Programming /Task06/bin/Debug/net6.0/Task06.dll
+/Users/kristinaalmazova/Documents/Programming /Task06/bin/Debug/net6.0/Task06.pdb
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.dll
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/refint/Task06.dll
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.pdb
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/Task06.genruntimeconfig.cache
+/Users/kristinaalmazova/Documents/Programming /Task06/obj/Debug/net6.0/ref/Task06.dll
